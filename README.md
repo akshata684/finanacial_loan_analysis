@@ -53,6 +53,16 @@ Loan Performance by Grade
 
 📌 Key Insights
 
+Most borrowers (83.32%) have fully repaid their loans, indicating overall good repayment behavior in the dataset.
+Only 13.83% loans are charged off, showing a moderate default rate, while 2.85% are still current, representing ongoing repayments.
+
+Most applicants either rent (18,393) or have a mortgage (17,157), indicating that the majority do not fully own their homes.
+Very few applicants fully own their homes, so non–homeowners (renters + mortgage holders) have a higher need to apply for loans.
+
+Higher grades (A–C) show strong repayment, with most loans marked as Fully Paid
+Defaults increase in lower grades (E–G), indicating higher credit risk.
+Grade B has the highest number of loans and still maintains a good repayment rate
+
 Majority of loans are Fully Paid, followed by Charged Off & Current.
 
 The dataset contained several inconsistencies which required heavy cleaning.
